@@ -1,3 +1,4 @@
+<<<<<<< HEAD:BaasicInputOutput/Multiplication.java
 import java.util.Scanner;
 public class Multiplication{
     public static void main(String[] args) {
@@ -10,4 +11,18 @@ public class Multiplication{
         System.out.println(mul);
     sc.close();
     }
+=======
+import java.util.Scanner;
+public class Multiplication{
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+         System.out.println("Enter number a:-");
+        int a=sc.nextInt();
+         System.out.println("Enter number b:-");
+        int b= sc.nextInt();
+        int mul= a*b;
+        System.out.println(mul);
+    sc.close();
+    }
+>>>>>>> 617e445ecadb7348d1a239902bdce0bbc58fcbad:BaasicOutputInput/Multiplication.java
 }
