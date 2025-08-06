@@ -1,4 +1,4 @@
-import java.util.Scanner;
+//import java.util.Scanner;
 
 public class Sum {
     public static void main(String[] args) {
@@ -13,7 +13,7 @@ public class Sum {
         // System.out.print("Sum:-"+sum); 
        // sc.close();
 
-        float c=20;
+        int c=20;
 
      int d=c;
         System.out.println(d);
