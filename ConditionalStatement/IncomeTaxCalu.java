@@ -6,7 +6,6 @@ public class IncomeTaxCalu {
         System.out.print("Enter your income:-");
         int income= sc.nextInt();
         if ( income< 500000){
-            int tax=0;
             System.out.println("No need to pay TAX");
         }
         else if(income>500000 && income<=1000000){

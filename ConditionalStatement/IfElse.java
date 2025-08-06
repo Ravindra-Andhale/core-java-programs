@@ -10,6 +10,7 @@ public class IfElse {
         else{
             System.out.println("Not eligible to vote");
         }
-    }
+        sc.close();
+        }
     
 }
