@@ -18,13 +18,6 @@ public class Bill {
         System.out.println("----------------------------------");
         System.out.println("Final Cost is:-"+ finalCost);
     sc.close();
-        int $=24;
-        System.out.println("$ is:-"+ $);
-
-
-char a = 'a';
-char b='b';
-System.out.print(a+b);
 
 }
 }
