@@ -6,10 +6,9 @@ public class PassFail {
         System.out.print("Enter your marks:-");
         int marks= sc.nextInt();
         
-        String result=((marks>=35)? "Pass": "Fail");
+        String result=marks>=35? "Pass": "Fail";
         System.out.println(result);
         sc.close();
     
-    }
-    
+    }   
 }
