@@ -1,4 +1,6 @@
 package Loops;
+
+// print a number from 1 to n
 import java.util.Scanner;
 
 public class WhileEg {
