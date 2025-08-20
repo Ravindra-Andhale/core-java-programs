@@ -1,4 +1,5 @@
 package Loops;
+// Prime Number Checker
 
 import java.util.Scanner;
 
