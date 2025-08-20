@@ -11,11 +11,13 @@ public class ReverseNumber {
 
         }*/
         // Using while loop to reverse the number
+        // int rev=0;
          while( num>0){
                 int digit=num%10;
-                System.out.print(digit);
+                System.out.print(digit);  // rev=rev*10+digit
                 num=num/10;
             }
+            // System.out.print(rev);
     }
     
 }
