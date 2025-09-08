@@ -13,8 +13,6 @@ public class Example1 {
     sum=sum+lastDigit;
     a=a/10;
    
-   
-
     }
     return sum;
     
