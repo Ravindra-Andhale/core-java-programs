@@ -25,6 +25,7 @@ public class Example1 {
         int digit= sc.nextInt();
 
         System.out.println("Sum of last digit is:-"+sumLastDigit(digit));
+        sc.close();
 
     }
     
