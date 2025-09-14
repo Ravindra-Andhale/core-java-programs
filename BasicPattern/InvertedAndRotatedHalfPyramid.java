@@ -1,6 +1,6 @@
 package BasicPattern;
 
-public class InvertedAndRotatesHalfPyramid {
+public class InvertedAndRotatedHalfPyramid {
     public static void rotatedHalfPyramid( int n){
         // for next line
         for( int i=1; i<=n;i++){
