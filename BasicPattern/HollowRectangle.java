@@ -3,6 +3,7 @@ package BasicPattern;
 public class HollowRectangle {
     public static void hollowRect( int totRow, int totCol){
         for( int i=1; i<=totRow;i++){
+            // for next line 
              for( int j=1; j<=totCol;j++){
                 if ( i==1 || i==totRow || j==1 || j==totCol){
                     System.out.print("*");
