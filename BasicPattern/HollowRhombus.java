@@ -18,6 +18,7 @@ public class HollowRhombus {
         }
         System.out.println();
             }
+            
         }
         public static void main(String[] args) {
             hollowRhombus(4);
