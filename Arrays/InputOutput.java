@@ -19,6 +19,7 @@ public class InputOutput {
         System.out.println("Sci:-"+marks[1]);
         System.out.println("Phy:-"+marks[2]);
         System.out.println("Che:-"+marks[3]);
+        System.out.println("Length of an array:-"+marks.length);
         sc.close();
     }
     
